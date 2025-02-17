@@ -18,7 +18,7 @@ The **Expense Tracker** is a simple web application that allows users to input t
 - **CSS**: Styling the components and layout.
 - **JavaScript**: Handling dynamic functionalities like adding, deleting, and updating the total expenses.
 
-![image](https://github.com/user-attachments/assets/973c2503-7e1e-433b-9b0c-60eb3a8af138)
+
 
 
 ## Installation
@@ -47,7 +47,7 @@ expense-tracker/
 ```
 
 ## Screenshot
-![Expense Tracker UI](https://yourimageurl.com/example.png)
+![image](https://github.com/user-attachments/assets/973c2503-7e1e-433b-9b0c-60eb3a8af138)
 
 ## License
 This project is open-source and available under the MIT License.
